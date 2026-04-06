@@ -299,7 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Komal Sharma]([https://github.com/yourusername](https://github.com/komal-sharma19/))**
 
 [⬆️ Back to Top](#-mailmind---ai-email-composer)
 
